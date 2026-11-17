@@ -2,6 +2,10 @@
 
 A curated index of public teaching repositories under [`neelsoumya`](https://github.com/neelsoumya), with links and brief descriptions. The descriptions are based on repository names, available README material, and repository pages; individual notebooks and linked resources may contain additional material.
 
+## Writing
+
+- [Writing tips and resources and how to give talks](https://github.com/neelsoumya/writing_productivity)
+
 ## Large language models, generative AI, and AI safety
 
 - **[Teaching LLM Applications](https://github.com/neelsoumya/teaching_llm_applications)** — MSc-level course on LLM internals and applications, with lecture notes and Python practicals. Topics include tokenisation, embeddings, attention, Transformers, pre-training and scaling, fine-tuning/RLHF, prompting, RAG, agents and tools, evaluation, safety, interpretability, DPO, efficient architectures, and reinforcement learning.
